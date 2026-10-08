@@ -78,11 +78,6 @@ For training, random rotation is used as data augmentation. This helps expose th
 ## Installation
 Open the project folder in a terminal.
 
-### Windows
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
 Then install the required libraries using:
 
 ```bash
